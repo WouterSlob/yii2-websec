@@ -1,0 +1,26 @@
+{
+    // package name
+    "name": "wouterslob/yii2-websec",
+
+    // package type
+    "type": "yii2-extension",
+
+    "description": "A Yii2 extension to add support for CSP, HSTS and HPKP",
+    "keywords": ["yii2", "websec", "csp", "hsts", "hpkp"],
+    "license": "MIT License (MIT)",
+    "support": {
+        "issues": "https://github.com/WouterSlob/yii2-websec/issues",
+        "source": "https://github.com/WouterSlob/yii2-websec"
+    },
+    "authors": [
+        {
+            "name": "Wouter Slob",
+            "email": "websec@wslob.nl"
+        }
+    ],
+
+    // package dependencies
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+}
