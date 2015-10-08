@@ -1,3 +1,4 @@
+<?php
 namespace wouterslob\yii2-websec;
 
 use yii\base\BootstrapInterface;
